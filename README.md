@@ -1,3 +1,9 @@
+# NOTICE
+This repository is old, and somewhat garbage. If you want to use it, you can, but it was the first program I ever touched that used C. If you still want to use an upated version of jsmpeg, please take a look at this fork by ollydev [jsmpeg-vnc](https://github.com/ollydev/jsmpeg-vnc)
+
+
+
+
 # jsmpeg-vnc
 
 A low latency, high framerate screen sharing server and client, viewable in any modern browser.
